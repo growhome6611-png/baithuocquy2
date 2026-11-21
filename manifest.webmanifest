@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Những bài thuốc quý",
+  "short_name": "Bài thuốc quý",
+  "description": "Tra cứu nội dung sách Những bài thuốc quý trong dân gian trên điện thoại.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#145644",
+  "categories": ["books", "reference"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
